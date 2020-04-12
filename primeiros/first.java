@@ -4,6 +4,6 @@ import java.util.Stack;
 
 public class first {
    public static void main(String[] args) {
-       System.out.println("jesus");
+       System.out.println("jesus salva");
    }
 }
