@@ -1,2 +1,3 @@
-# ola_mundo
- My first repository
+# Olá,  Mundo.
+ My first repository with Gustavo Guanabara
+
